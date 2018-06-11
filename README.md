@@ -4,7 +4,7 @@
 
 草稿:
 
-  ![deploy](./20180611_074542.jpg)
-  ![deploy](./20180611_074558.jpg)
-  ![deploy](./20180611_074619.jpg)  
-  ![deploy](./20180611_074640.jpg)
+  ![deploy](./new algorithm_01.png)
+  ![deploy](./new algorithm_02.png)
+  ![deploy](./new algorithm_03.png)  
+  ![deploy](./new algorithm_04.png)
