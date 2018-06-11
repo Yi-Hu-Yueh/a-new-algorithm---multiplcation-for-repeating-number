@@ -4,7 +4,7 @@
 
 草稿:
 
-  ![deploy](./new_algorithm_01.png)
+  ![deploy](./new algorithm_01.png)
   ![deploy](./new_algorithm_02.png)
   ![deploy](./new_algorithm_03.png)  
   ![deploy](./new_algorithm_04.png)
