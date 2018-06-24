@@ -1,12 +1,24 @@
-
+# -*- coding: utf-8 -*-
+# 
+# pip install --upgrade numpy
+# pip install --upgrade plotVectors
 from __future__ import print_function
-import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-from tensorflow.examples.tutorials.mnist import input_data
 import sympy
-#     
-# print(sympy.factorint(169491525423728813559322033898305084745762711864406779661 ))
+import collections
+from sympy import pprint
+
+# 質因數分解   
+dict_p = sympy.factorint(1234567891011121314151617181920, visual=True)
+# dict_p = collections.OrderedDict(sorted(dict_p.items()))
+print(type(dict_p))
+pprint(dict_p)
+raise SystemExit(0)
+for i in range(1000000):
+    print(i/123456789)
+
+
 a_str = ("123","999")
 b_str = ("12", "99")
 a_mod = len(a_str[0])
